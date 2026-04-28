@@ -8,6 +8,5 @@
 ||api.bugsnag.com^
 ||app.bugsnag.com^
 ||browser.sentry-cdn.com^
-||app.getsentry.com^
 ||getsentry.com^
 ||appmetrica.yandex.ru^
