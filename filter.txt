@@ -65,4 +65,5 @@
 ||awin1.com^
 ||zenaps.com^
 ||impact.com^
+||o0.ingest.sentry.io^
 
