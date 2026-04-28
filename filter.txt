@@ -39,11 +39,16 @@
 ||connect.facebook.net^
 ||pixel.quora.com^
 ||ads.vk.com^
-||vk.com/rtrg^
+||vk.com^
 ||px.srvcs.tumblr.com^
 ||xp.apple.com^
 ||ads.huawei.com^
 ||ngfts.lge.com^
 ||mads-eu.amazon.com^
+||ironSource.mobi^
+||app.appsflyer.com^
+||app.adjust.com^
+||graph.facebook.com^
+||tr.facebook.com^
 
 
