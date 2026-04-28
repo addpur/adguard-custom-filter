@@ -50,5 +50,9 @@
 ||app.adjust.com^
 ||graph.facebook.com^
 ||tr.facebook.com^
+||cdn.cookielaw.org^
+||consentcdn.cookiebot.com^
+||cookiebot.com^
+||app.usercentrics.eu^
 
 
