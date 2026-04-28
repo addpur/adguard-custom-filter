@@ -15,3 +15,10 @@
 ||sdk.privacy-center.org^
 ||cdn.privacy-mgmt.com^
 ||app.usercentrics.eu^
+||widget.intercom.io^
+||trackcmp.net^
+||imasdk.googleapis.com^
+||mssl.fwmrm.net^
+||dai.google.com^
+||ssl.p.jwpcdn.com^
+
