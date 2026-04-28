@@ -54,5 +54,9 @@
 ||consentcdn.cookiebot.com^
 ||cookiebot.com^
 ||app.usercentrics.eu^
+||ads.reddit.com^
+||ads.facebook.com^
+||affiliationjs.s3.amazonaws.com^
+
 
 
