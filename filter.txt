@@ -10,3 +10,8 @@
 ||browser.sentry-cdn.com^
 ||getsentry.com^
 ||appmetrica.yandex.ru^
+||consent.cookiebot.com^
+||consent.trustarc.com^
+||sdk.privacy-center.org^
+||cdn.privacy-mgmt.com^
+||app.usercentrics.eu^
