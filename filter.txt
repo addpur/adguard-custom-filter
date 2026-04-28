@@ -3,6 +3,9 @@
 !-------------------------------------------------------------------------------!
 !
 !
+||*ads*^
+||*judi*^
+||*slot*^
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
@@ -46,8 +49,8 @@
 ||ngfts.lge.com^
 ||mads-eu.amazon.com^
 ||ironSource.mobi^
-||app.appsflyer.com^
-||app.adjust.com^
+||appsflyer.com^
+||adjust.com^
 ||graph.facebook.com^
 ||tr.facebook.com^
 ||cdn.cookielaw.org^
@@ -57,6 +60,8 @@
 ||ads.reddit.com^
 ||ads.facebook.com^
 ||affiliationjs.s3.amazonaws.com^
-
-
+||shareasale-analytics.com^
+||tkqlhce.com^
+||awin1.com^
+||zenaps.com^
 
