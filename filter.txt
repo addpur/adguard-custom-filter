@@ -67,5 +67,6 @@
 ||s0.2mdn.net^
 ||adsrvr.org^
 ||doubleclick.net^
+||tpc.googlesyndication.com^
 
 
