@@ -64,4 +64,6 @@
 ||graph.facebook.com^
 ||ads.facebook.com^
 ||tr.facebook.com^
+||s0.2mdn.net^
+||tpc.googlesyndication.com^
 
