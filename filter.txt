@@ -57,4 +57,11 @@
 ||zenaps.com^
 ||impact.com^
 ||o0.ingest.sentry.io^
+||fna.fbcdn.net^
+||connect.facebook.net^
+||an.facebook.com^
+||pixel.facebook.com^
+||graph.facebook.com^
+||ads.facebook.com^
+||tr.facebook.com^
 
