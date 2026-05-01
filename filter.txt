@@ -66,6 +66,6 @@
 ||tr.facebook.com^
 ||s0.2mdn.net^
 ||adsrvr.org^
-||googleads.g.doubleclick.net^
+||doubleclick.net^
 
 
