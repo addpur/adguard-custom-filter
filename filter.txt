@@ -66,4 +66,5 @@
 ||tr.facebook.com^
 ||s0.2mdn.net^
 ||tpc.googlesyndication.com^
+||adsrvr.org^
 
