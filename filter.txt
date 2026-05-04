@@ -43,13 +43,11 @@
 ||ironSource.mobi^
 ||appsflyer.com^
 ||adjust.com^
-||tr.facebook.com^
 ||cdn.cookielaw.org^
 ||consentcdn.cookiebot.com^
 ||cookiebot.com^
 ||app.usercentrics.eu^
 ||ads.reddit.com^
-||ads.facebook.com^
 ||affiliationjs.s3.amazonaws.com^
 ||shareasale-analytics.com^
 ||tkqlhce.com^
@@ -57,11 +55,8 @@
 ||zenaps.com^
 ||impact.com^
 ||o0.ingest.sentry.io^
-||fna.fbcdn.net^
-||connect.facebook.net^
 ||an.facebook.com^
 ||pixel.facebook.com^
-||graph.facebook.com^
 ||ads.facebook.com^
 ||tr.facebook.com^
 ||s0.2mdn.net^
