@@ -64,4 +64,8 @@
 ||doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||tpc.googlesyndication.com^
+||advertising-api-external.facebook.com^
+||display.ugcv.facebook.com^
+||pixel.facebook.com^
+||graph.facebook.com^
 
