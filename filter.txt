@@ -68,6 +68,7 @@
 ||doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||tpc.googlesyndication.com^
+
 ! -- JARINGAN IKLAN BANNER DAN MOBILE UTAMA --
 ||mgid.com^
 ||taboola.com^
@@ -92,6 +93,7 @@
 ||juicyads.com^
 ||popcash.net^
 ||yelload.com^
+||ok36539.vip^
 ||ok365*.vip^
 
 ! -- KHUSUS IKLAN FACEBOOK/META (TANPA MERUSAK FITUR UTAMA) --
