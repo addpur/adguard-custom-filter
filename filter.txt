@@ -96,6 +96,33 @@
 ||juicyads.com^
 ||yelload.com^
 ||ok36539.vip^
+||vb87g9s.com^
+||cdn.taboola.com^
+||is.com^
+||app.posthog.com^
+||eu.posthog.com^
+||us.i.posthog.com^
+||posthog.com^
+||rudderstack.com^
+||snowplowanalytics.com^
+||tags.crwdcntrl.net^
+||cdn.lr-ingest.com^
+||r.lr-ingest.com^
+||qevents.quora.com^
+||smartclip.com^
+||privacyportal.onetrust.com^
+||cmp.inmobi.com^
+||cmp.osano.com^
+||fundingchoicesmessages.google.com^
+||www.awin1.com^
+||go.redirectingat.com^
+||clientstream.launchdarkly.com^
+||click.mailchimp.com^
+||api.onesignal.com^
+||klaviyo.com^
+||customer.io^
+||bea4.v.fwmrm.net^
+||2975c.v.fwmrm.net^
 
 ! -- KHUSUS IKLAN FACEBOOK/META (TANPA MERUSAK FITUR UTAMA) --
 ||an.facebook.com^
