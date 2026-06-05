@@ -13,6 +13,9 @@
 /bet.*\.vip$/
 /slot.*\.vip$/
 /casino.*\.vip$/
+/slot[0-9].*\.vip$/
+/bet[0-9].*\.vip$/
+^ok365[0-9]*\.vip$
 
 ! -- DOMAIN IKLAN DAN TRACKER GLOBAL --
 ||notify.bugsnag.com^
@@ -91,10 +94,8 @@
 ||hilltopads.com^
 ||exoclick.com^
 ||juicyads.com^
-||popcash.net^
 ||yelload.com^
 ||ok36539.vip^
-||ok365*.vip^
 
 ! -- KHUSUS IKLAN FACEBOOK/META (TANPA MERUSAK FITUR UTAMA) --
 ||an.facebook.com^
