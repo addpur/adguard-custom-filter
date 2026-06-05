@@ -143,3 +143,6 @@
 @@||cdninstagram.com^
 @@||whatsapp.com^
 @@||whatsapp.net^
+@@||connect.facebook.net^
+@@||graph.instagram.com^
+@@||i.instagram.com^
