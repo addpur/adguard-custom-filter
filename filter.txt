@@ -1,11 +1,17 @@
 !-------------------------------------------------------------------------------!
-!------------------ Advertising networks ---------------------------------------!
+!------------------ Custom AdBlock & Anti-Judi List ----------------------------!
 !-------------------------------------------------------------------------------!
-!
-!
-||*ads*^
-||*judi*^
-||*slot*^
+
+! -- ANTI-JUDI DAN BANNER SPAM LOKAL INDONESIA --
+/ads/
+/judi/
+/slot/
+/ampas/
+/gacor/
+/RTP/
+/infonex/
+
+! -- DOMAIN IKLAN DAN TRACKER GLOBAL --
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
@@ -46,7 +52,6 @@
 ||cdn.cookielaw.org^
 ||consentcdn.cookiebot.com^
 ||cookiebot.com^
-||app.usercentrics.eu^
 ||ads.reddit.com^
 ||affiliationjs.s3.amazonaws.com^
 ||shareasale-analytics.com^
@@ -55,17 +60,44 @@
 ||zenaps.com^
 ||impact.com^
 ||o0.ingest.sentry.io^
-||an.facebook.com^
-||pixel.facebook.com^
-||ads.facebook.com^
-||tr.facebook.com^
 ||s0.2mdn.net^
 ||adsrvr.org^
 ||doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||tpc.googlesyndication.com^
+! -- JARINGAN IKLAN BANNER DAN MOBILE UTAMA --
+||mgid.com^
+||taboola.com^
+||outbrain.com^
+||popads.net^
+||popcash.net^
+||adnxs.com^
+||criteo.com^
+||rubiconproject.com^
+||pubmatic.com^
+||openx.net^
+||casalemedia.com^
+||inmobi.com^
+||vungle.com^
+||kliksay.com^
+||indocuan.com^
+
+! -- KHUSUS IKLAN FACEBOOK/META (TANPA MERUSAK FITUR UTAMA) --
+||an.facebook.com^
+||pixel.facebook.com^
+||ads.facebook.com^
+||tr.facebook.com^
 ||advertising-api-external.facebook.com^
 ||display.ugcv.facebook.com^
-||pixel.facebook.com^
-||graph.facebook.com^
 
+!-------------------------------------------------------------------------------!
+!------------------ Whitelist Meta (Mengembalikan Komentar cs) -----------------!
+!-------------------------------------------------------------------------------!
+@@||facebook.com^
+@@||facebook.net^
+@@||fbcdn.net^
+@@||fbsbx.com^
+@@||instagram.com^
+@@||cdninstagram.com^
+@@||whatsapp.com^
+@@||whatsapp.net^
