@@ -10,6 +10,9 @@
 /gacor/
 /RTP/
 /infonex/
+/bet.*\.vip$/
+/slot.*\.vip$/
+/casino.*\.vip$/
 
 ! -- DOMAIN IKLAN DAN TRACKER GLOBAL --
 ||notify.bugsnag.com^
@@ -89,6 +92,7 @@
 ||juicyads.com^
 ||popcash.net^
 ||yelload.com^
+||ok365*.vip^
 
 ! -- KHUSUS IKLAN FACEBOOK/META (TANPA MERUSAK FITUR UTAMA) --
 ||an.facebook.com^
