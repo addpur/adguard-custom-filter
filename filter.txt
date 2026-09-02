@@ -17,6 +17,25 @@
 /bet[0-9].*\.vip$/
 ^ok365[0-9]*\.vip$
 
+! -- DOMAIN IKLAN GAME MOBILE & REWARD (APLIKASI MELOLO DLL) --
+||applovin.com^
+||unityads.unity3d.com^
+||applifier.com^
+||chartboost.com^
+||adcolony.com^
+||rayjump.com^
+||mintegral.net^
+||mintegral.com^
+||supersonicads.com^
+||pangle.io^
+||startappservice.com^
+||startappexchange.com^
+||bidmachine.io^
+||smaato.net^
+||singular.net^
+||branch.io^
+||kochava.com^
+
 ! -- DOMAIN IKLAN DAN TRACKER GLOBAL --
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
@@ -145,4 +164,6 @@
 @@||whatsapp.net^
 @@||connect.facebook.net^
 @@||graph.instagram.com^
+@@||graph.facebook.com^
+@@||b-graph.facebook.com^
 @@||i.instagram.com^
