@@ -35,6 +35,13 @@
 ||singular.net^
 ||branch.io^
 ||kochava.com^
+||v16-ad.ap4r.com^
+||ht6614.shop^
+||wfergeh.gtal.one^
+||tmtreader.com^
+||fizzopic.org^
+||126.com^
+||21cn.com^
 
 ! -- DOMAIN IKLAN DAN TRACKER GLOBAL --
 ||notify.bugsnag.com^
