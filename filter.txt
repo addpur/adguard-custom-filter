@@ -153,6 +153,10 @@
 ||2975c.v.fwmrm.net^
 ||advmaker.ua^
 ||advmaker.net^
+||popmyads.com^
+||popcash.net^
+||propellerclick.com^
+||displayvertising.com^
 
 ! -- KHUSUS IKLAN FACEBOOK/META (TANPA MERUSAK FITUR UTAMA) --
 ||an.facebook.com^
