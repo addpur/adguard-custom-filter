@@ -42,6 +42,8 @@
 ||fizzopic.org^
 ||126.com^
 ||21cn.com^
+||devc.zztfly.com^
+||flysleep.cn^
 
 ! -- DOMAIN IKLAN DAN TRACKER GLOBAL --
 ||notify.bugsnag.com^
