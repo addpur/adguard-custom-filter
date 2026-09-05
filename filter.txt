@@ -157,6 +157,7 @@
 ||popcash.net^
 ||propellerclick.com^
 ||displayvertising.com^
+||mgid.com^
 
 ! -- KHUSUS IKLAN FACEBOOK/META (TANPA MERUSAK FITUR UTAMA) --
 ||an.facebook.com^
